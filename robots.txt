@@ -2,5 +2,5 @@ User-agent: *
 Disallow: /
 
 # This is a production release repository.
-# GitHub search will still index this repo, but search engines (Google, Bing, etc.)
 # will not crawl or index this content.
+
